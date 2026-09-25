@@ -1,4 +1,4 @@
-# Hi, I'm Salma 👋
+# Hi, I'm Sally 👋
 
 Computer Engineering student at **Politecnico di Torino** — building things end-to-end, from data pipelines to computer vision systems.
 
